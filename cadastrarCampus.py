@@ -2,7 +2,7 @@
 import sqlite3
 
 # Solicitar informações do Funcionário·
-print('Cadastrar o Campus')
+print('- Cadastrar o Campus -')
 nome = input('Digite o nome: ')
 cidade = input('Digite a cidade: ')
 
